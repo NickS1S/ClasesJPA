@@ -14,3 +14,4 @@ Despues de eso buscar el Link de la Base de datos H2 en application.propetiers (
 De esta manera se podran observar las distintas tablas del modelo de clases planteado y ejemplos para mostrar su funcionamiento y la relacion de dichas tablas
 
 
+NOTA: Se creo un nuevo objeto para cada relacion para que de esta manera se pueda apreciar mejor, por ende en la Base de datos se podran ver algunos valores null
